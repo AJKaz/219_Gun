@@ -314,10 +314,14 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 4
 =======
   m_RootOrder: 3
 >>>>>>> 4e4d8b426286c2f7d61486f2248d1a979a8db2a1
+=======
+  m_RootOrder: 2
+>>>>>>> parent of b1209cd (imported wiggly missile)
 =======
   m_RootOrder: 2
 >>>>>>> parent of b1209cd (imported wiggly missile)
@@ -400,10 +404,14 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 6
 =======
   m_RootOrder: 5
 >>>>>>> 4e4d8b426286c2f7d61486f2248d1a979a8db2a1
+=======
+  m_RootOrder: 4
+>>>>>>> parent of b1209cd (imported wiggly missile)
 =======
   m_RootOrder: 4
 >>>>>>> parent of b1209cd (imported wiggly missile)
@@ -604,10 +612,14 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 3
 =======
       value: 6
 >>>>>>> 4e4d8b426286c2f7d61486f2248d1a979a8db2a1
+=======
+      value: 5
+>>>>>>> parent of b1209cd (imported wiggly missile)
 =======
       value: 5
 >>>>>>> parent of b1209cd (imported wiggly missile)
@@ -1034,10 +1046,14 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 5
 =======
   m_RootOrder: 4
 >>>>>>> 4e4d8b426286c2f7d61486f2248d1a979a8db2a1
+=======
+  m_RootOrder: 3
+>>>>>>> parent of b1209cd (imported wiggly missile)
 =======
   m_RootOrder: 3
 >>>>>>> parent of b1209cd (imported wiggly missile)
